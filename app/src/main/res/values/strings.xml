@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">polytech_lab2</string>
+    <string name="delete">Удалить</string>
+    <string name="toDoList">Список дел</string>
+    <string name="enterTodo">Введите задачу</string>
+    <string name="addToDo">Добавить задачу</string>
+    <string name="createReminder">Создать напоминание</string>
+    <string name="enterReminderText">Введите текст напоминания</string>
+    <string name="chooseDate">Выбрать дату</string>
+    <string name="chooseTime">Выбрать время</string>
 </resources>
